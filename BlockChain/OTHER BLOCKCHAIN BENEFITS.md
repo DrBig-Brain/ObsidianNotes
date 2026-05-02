@@ -1,0 +1,8 @@
+- Decentralized
+- Many node operators
+- Transparency and Flexibility
+- Pseudo anonymous
+- speed and efficiency
+- Security and immutability
+- Counterparty risk removal
+- Trust minimized agreements

@@ -1,0 +1,3 @@
+- DeFI = Decentralized finance
+- DAOs = Decentralized Autonomous Organizations
+- NFTs = Non Fungible Tokens

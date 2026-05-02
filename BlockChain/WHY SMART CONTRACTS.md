@@ -1,0 +1,14 @@
+- Create trust minimized agreement
+- unbreakable promises
+- everything we do or interact with is a result of some form of agreement/contract => Promises
+- Traditional promises are Trust based
+-  Smart Contract are Immutable, Decentralized and Transparent
+-  Smart Contract : an agreement, contract, or set of instructions that is deployed on a decentralized block chain
+-  Once Deployed
+	  - Cannot be altered 
+	  - Automatically executes
+	  - everyone can see the terms of the agreements
+- Decentralized Exchanges: Exchange Currency and stock without trusting any centralized body
+![[Pasted image 20260413113037.png]]
+- In Smart contacts doing the right thing is infrastructural
+- Trust Minimized agreements

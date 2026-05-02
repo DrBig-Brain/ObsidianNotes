@@ -1,0 +1,21 @@
+- Bitcoin
+	- Bitcoin what first technology to use Blockchain
+	- Bitcoin white paper by satoshi nakamoto
+	- highlighted cryptography and decentralization
+	- considered a superior store of value
+	- set amount of bitcoins
+-  Etherium
+	- few years after bitcoin
+	- added smart contracts to the blockchain
+	- SMART CONTRACTS
+		: set of instructions executed in a decentralized way without the need for a centralized or third party intermediary
+	-  embodied and executed on the blockchain
+- Bitcoin in considered a store of value 
+- Etherium is considered bot at store of value and a utility to facilitate decentralized apps
+- BlockChain can't read or listen to data from the real world.
+- Oracle problem: block chains are deterministic systems. they need data to perform any task, 
+  block chain oracles are any device that interacts with off-chain world to provide external data or computation to smart contracts for a decentralized system we cannot work with a single oracle, thus we need a decentralized oracle network
+- hybrid smart contract - on-chain and off-chain agreements
+- Chainlink: decentralized oracle network (brings both data and computation)
+- Dapp = decentralized application = Decentralized Protocol = Smart Contract
+- WEB3: permission less web with dynamic content. where decentralized censorship resistant network run your agreement and code. it generally is accompanied by the idea of user owned ecosystems, where the protocol you interact with you also own a portion of, instead of solely being the product.
