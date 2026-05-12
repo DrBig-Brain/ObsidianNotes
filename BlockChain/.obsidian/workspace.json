@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1f26f8ae119e0a9",
+        "id": "9519149f568822c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ba276ea770535e04",
+            "id": "e5f1d9ac598fe7a1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "29511e71a620bd44",
@@ -177,14 +177,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "1efdd481345da4e6",
+  "active": "e5f1d9ac598fe7a1",
   "lastOpenFiles": [
-    "BLOCKCHAIN BASICS.md",
-    "INTRODUCTION TO BLOCKCHAIN.md",
-    "WHAT HAVE SMART CONTRACTS DONE SO FAR ?.md",
-    "WHY SMART CONTRACTS.md",
-    "Pasted image 20260413113037.png",
-    "OTHER BLOCKCHAIN BENEFITS.md",
+    "INDEX.md",
+    "Transactions/1. First Transaction.md",
+    "Introduction/INTRODUCTION TO BLOCKCHAIN.md",
+    "Introduction/OTHER BLOCKCHAIN BENEFITS.md",
+    "Introduction/BLOCKCHAIN BASICS.md",
+    "How BlockChain Works/2. KEYS.md",
+    "How BlockChain Works/Pasted image 20260512192956.png",
+    "How BlockChain Works/HOW.md",
+    "How BlockChain Works/1. HOW BLOCKCHAIN WORKS.md",
+    "How BlockChain Works/Pasted image 20260512192818.png",
+    "Introduction/WHAT HAVE SMART CONTRACTS DONE SO FAR ?.md",
+    "Introduction/WHY SMART CONTRACTS.md",
+    "Introduction/Pasted image 20260413113037.png",
+    "Transactions/2. Gas.md",
+    "How BlockChain Works/Pasted image 20260512143251.png",
+    "How BlockChain Works/Pasted image 20260512143201.png",
+    "How BlockChain Works/Pasted image 20260512143150.png",
+    "How BlockChain Works/Pasted image 20260512143132.png",
+    "How BlockChain Works/Pasted image 20260512134514.png",
+    "How BlockChain Works/Pasted image 20260512134321.png",
+    "How BlockChain Works/Pasted image 20260512133944.png",
+    "How BlockChain Works",
+    "Transactions/Transactions.md",
+    "Transactions",
+    "Introduction",
     "Welcome.md"
   ]
 }
