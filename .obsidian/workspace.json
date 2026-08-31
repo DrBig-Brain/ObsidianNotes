@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "788bd24d4a4b924d",
+    "id": "e23c56c31599f937",
     "type": "split",
     "children": [
       {
-        "id": "361eb12fedeaf8d7",
+        "id": "0bee6a0bff478f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "e064036d354029e4",
+            "id": "146600ea8a56f169",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49e3eff171810508",
+    "id": "a02745d1892a27a8",
     "type": "split",
     "children": [
       {
-        "id": "33cceab24d579d54",
+        "id": "58c3df6ea0983542",
         "type": "tabs",
         "children": [
           {
-            "id": "cb995e64ddb1113d",
+            "id": "713f3f6403ea9389",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d80c92090353946",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,49 +63,40 @@
             }
           },
           {
-            "id": "a963d635d017f2c7",
+            "id": "80ef88c66899ef43",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "673b2f029f2fdab0",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
-    "id": "29511e71a620bd44",
+    "id": "df21f92acb553206",
     "type": "split",
     "children": [
       {
-        "id": "3b0a88e2b7c31acf",
+        "id": "fbc9154e6d2cc847",
         "type": "tabs",
         "children": [
           {
-            "id": "f2894a511cd6019e",
+            "id": "aa6dfee1fa1a5d88",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BlockChain/Introduction/BLOCKCHAIN BASICS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +110,12 @@
             }
           },
           {
-            "id": "d167f377418af5d3",
+            "id": "cb606de6a5c32766",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BlockChain/Introduction/BLOCKCHAIN BASICS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -117,7 +124,7 @@
             }
           },
           {
-            "id": "daae959deaf4aad6",
+            "id": "51ad9dc03a353f7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +139,7 @@
             }
           },
           {
-            "id": "c1903a523bdb27a4",
+            "id": "62deccc6d51a29e3",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -146,11 +153,12 @@
             }
           },
           {
-            "id": "9e4cb0fd9a502430",
+            "id": "74e9b5e57aa82528",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "BlockChain/Introduction/BLOCKCHAIN BASICS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -159,8 +167,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,34 +186,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "673b2f029f2fdab0",
+  "active": "146600ea8a56f169",
   "lastOpenFiles": [
+    "Computer Networks/Drawing 2026-08-26 02.54.50.excalidraw.md",
+    "Pasted Image 20260830152406_616.png",
+    "OS/Pasted Image 20260827232708_527.png",
+    "OS/Pasted Image 20260827231801_373.png",
+    "OS/Pasted Image 20260827231313_331.png",
+    "OS/Pasted Image 20260827230417_731.png",
+    "OS/Pasted Image 20260826035128_297.png",
+    "OS/Drawing 2026-08-26 03.31.58.excalidraw.md",
+    "Computer Networks/Pasted Image 20260826165715_310.png",
+    "Computer Networks/Pasted Image 20260826162001_841.png",
+    "Pasted Image 20260826035128_297.png",
+    "OS",
+    "Excalidraw/Drawing 2026-08-26 02.54.44.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw",
+    "README.md",
+    "Computer Networks",
+    "Projects/Research Agent.md",
+    "Projects",
     "Untitled.base",
-    "INDEX.md",
-    "Transactions/1. First Transaction.md",
-    "Introduction/INTRODUCTION TO BLOCKCHAIN.md",
-    "Introduction/OTHER BLOCKCHAIN BENEFITS.md",
-    "Introduction/BLOCKCHAIN BASICS.md",
-    "How BlockChain Works/2. KEYS.md",
-    "How BlockChain Works/Pasted image 20260512192956.png",
-    "How BlockChain Works/HOW.md",
-    "How BlockChain Works/1. HOW BLOCKCHAIN WORKS.md",
-    "How BlockChain Works/Pasted image 20260512192818.png",
-    "Introduction/WHAT HAVE SMART CONTRACTS DONE SO FAR ?.md",
-    "Introduction/WHY SMART CONTRACTS.md",
-    "Introduction/Pasted image 20260413113037.png",
-    "Transactions/2. Gas.md",
-    "How BlockChain Works/Pasted image 20260512143251.png",
-    "How BlockChain Works/Pasted image 20260512143201.png",
-    "How BlockChain Works/Pasted image 20260512143150.png",
-    "How BlockChain Works/Pasted image 20260512143132.png",
-    "How BlockChain Works/Pasted image 20260512134514.png",
-    "How BlockChain Works/Pasted image 20260512134321.png",
-    "How BlockChain Works/Pasted image 20260512133944.png",
-    "How BlockChain Works",
-    "Transactions/Transactions.md",
-    "Transactions",
-    "Introduction",
-    "Welcome.md"
+    "Excalidraw/Drawing 2026-08-17 23.27.17.excalidraw.md",
+    "Excalidraw/Drawing 2026-08-13 15.44.54.excalidraw.md",
+    "Software Development",
+    "AIML",
+    "Java/ClassesAndObjects.md",
+    "Pasted Image 20260817163016_689.png",
+    "Java/javaBasics.md",
+    "Software Development/SQL",
+    "AIML/Reinforcment Learning",
+    "Software Development/Nginx/BeginnersGuide.md",
+    "Nginx/AdminsGuide.md",
+    "Excalidraw/Drawing 2026-08-09 21.37.39.excalidraw.md",
+    "Software Development/Nginx",
+    "Java/OOPS.md",
+    "2026-08-07.md",
+    "BlockChain/Introduction/BLOCKCHAIN BASICS.md",
+    "Untitled.canvas"
   ]
 }
