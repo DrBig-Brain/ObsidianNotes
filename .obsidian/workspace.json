@@ -11,10 +11,12 @@
             "id": "146600ea8a56f169",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Java/ClassesAndObjects.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ClassesAndObjects"
             }
           }
         ]
@@ -79,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df21f92acb553206",
@@ -176,18 +177,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "146600ea8a56f169",
   "lastOpenFiles": [
+    "Java/javaBasics.md",
     "Computer Networks/Drawing 2026-08-26 02.54.50.excalidraw.md",
     "Pasted Image 20260830152406_616.png",
     "OS/Pasted Image 20260827232708_527.png",
@@ -214,7 +216,6 @@
     "AIML",
     "Java/ClassesAndObjects.md",
     "Pasted Image 20260817163016_689.png",
-    "Java/javaBasics.md",
     "Software Development/SQL",
     "AIML/Reinforcment Learning",
     "Software Development/Nginx/BeginnersGuide.md",
